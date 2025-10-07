@@ -1,5 +1,3 @@
-# dwfe-2088822-projeto1
-
 Para testar a aplicação poder fazer o sign up com o email a password ou tambem pode fazer login com um user de teste com os seguintes valores, 
 email : ab@gmail.com    password: 123456
 
